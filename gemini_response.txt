@@ -1,0 +1,13 @@
+```json
+[
+  {"start": 0.0, "end": 10.0, "text": "Get ready to be AMAZED by Versal, the revolutionary platform that's about to transform your project hosting!  This is an absolute game-changer, and you're going to LOVE what it can do for you!", "musicStyle": "tech"},
+  {"start": 10.0, "end": 20.0, "text": "Imagine having FREE capabilities like lightning-fast speed requests, tokens, and seamless reads and writes!  Versal puts incredible power right at your fingertips, making your workflow smoother than ever before!", "musicStyle": "upbeat"},
+  {"start": 20.0, "end": 30.0, "text": "And the integration possibilities?  Simply MIND-BLOWING! Connect with third-party services effortlessly and expand your project's potential like never before!  The future of development is HERE!", "musicStyle": "tech"},
+  {"start": 30.0, "end": 40.0, "text": "Check out the deployments section – it's your instant window into your project's journey! See your recent deployments with just a glance!  It's so intuitive, so powerful!", "musicStyle": "upbeat"},
+  {"start": 40.0, "end": 50.0, "text": "Now, let's dive into the overview!  Adding a new project is a BREEZE!  You can see your recent projects, or simply paste a GitHub URL and watch the magic happen!", "musicStyle": "tech"},
+  {"start": 50.0, "end": 60.0, "text": "Since Versal is already connected to your GitHub, it's showing your most recent projects – talk about convenience!  Let's pick this fantastic 'Product AI' project to import!", "musicStyle": "upbeat"},
+  {"start": 60.0, "end": 70.0, "text": "Look at this!  It automatically detects your project name and even suggests the framework preset!  Versal supports ALL the popular frameworks – it's incredibly smart!", "musicStyle": "tech"},
+  {"start": 70.0, "end": 80.0, "text": "And the options don't stop there!  You can fine-tune your directory, output settings, and even parameter variables with absolute precision!  This is customization at its finest!", "musicStyle": "upbeat"},
+  {"start": 80.0, "end": 83.58, "text": "With just ONE click, you can deploy your project!  Isn't that INCREDIBLE?!  Get ready to experience effortless deployment with Versal!", "musicStyle": "tech"}
+]
+```

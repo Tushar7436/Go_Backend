@@ -1,0 +1,33 @@
+# --- Project Specifics ---
+# Ignore environment variables (contains secrets)
+.env
+
+# Ignore temporary audio/media files generated during processing
+instructions/temp_audio/
+*.mp3
+*.wav
+*.flac
+
+# --- Go / Compilation ---
+# Binaries and icons
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# --- IDEs / Editors ---
+# VS Code
+.vscode/
+.history/
+
+# JetBrains (GoLand)
+.idea/
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
