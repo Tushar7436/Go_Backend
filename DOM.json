@@ -1,0 +1,1072 @@
+{
+  "sessionId": "session_1766369102352_ey091xl",
+  "startTime": 1766369102352,
+  "endTime": 38567,
+  "url": "https://www.flipkart.com/",
+  "viewport": {
+    "width": 1536,
+    "height": 695
+  },
+  "events": [
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 63,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 201,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 363,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 691,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 2978,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 3201,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 6461,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 6831,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 6839,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 7146,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 8812,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 8995,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 9295,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 9595,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 11995,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 695
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 12256,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 675
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "click",
+      "timestamp": 13983,
+      "target": {
+        "tag": "DIV",
+        "id": null,
+        "classes": [
+          "hXSKkH"
+        ],
+        "text": "Minutes\nMobiles & Tablets\nFashion\nElectronics\nTVs & Appliances\nHome & Furniture\nFlight Bookings\nBeau",
+        "selector": "div.bR1LPC > div.iHx_Yw > div.jtYow_ > div.hXSKkH",
+        "bbox": {
+          "x": 16,
+          "y": 75,
+          "width": 1504,
+          "height": 1445
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 14996,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 15219,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 15296,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 15596,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 16548,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 16850,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 17129,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 17191,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 18014,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 18329,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 18664,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 18979,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 19279,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 19579,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 19880,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 20195,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 20513,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 20814,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 21129,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 21429,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 21730,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 22030,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 22346,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 22696,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 22996,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 23296,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 23629,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 26211,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 26437,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 26511,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 26812,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 27114,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 27417,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 27747,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 28763,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 29279,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 29695,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 30162,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 30579,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 32314,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 32762,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 32769,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 33146,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 33462,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 33763,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 34065,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 34380,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "scroll",
+      "timestamp": 37477,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        },
+        "scrollPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "dom_mutation",
+      "timestamp": 37702,
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    },
+    {
+      "source": "dom",
+      "type": "click",
+      "timestamp": 38567,
+      "target": {
+        "tag": "IMG",
+        "id": null,
+        "classes": [
+          "iSAepO",
+          "HImJXk"
+        ],
+        "text": null,
+        "selector": "div.yQdBY2 > div.Mgtgpz > div.ntqCYD > img.iSAepO.HImJXk",
+        "bbox": {
+          "x": 177,
+          "y": 91,
+          "width": 64,
+          "height": 64
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://www.flipkart.com/",
+        "viewport": {
+          "width": 1536,
+          "height": 643
+        }
+      }
+    }
+  ],
+  "videoPath": "D:\\Code\\FullStack\\Clueso_Node_layer\\src\\recordings\\recording_session_1766369102352_ey091xl_video.webm",
+  "audioPath": "D:\\Code\\FullStack\\Clueso_Node_layer\\src\\recordings\\recording_session_1766369102352_ey091xl_audio.webm",
+  "processedAt": "2025-12-22T02:07:00.000Z"
+}
